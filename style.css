@@ -1,0 +1,36 @@
+body{
+    background-image: url('./depositphotos_370098862-stock-illustration-the-news-sketch-vector-seamless.jpg');
+    /* display: flex; */
+    /* justify-content: center; */
+}
+
+h1{
+   display: flex;
+   justify-content: center;
+   /* width:990px ; */
+   text-align: center;
+   border-radius: 30px;
+   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+   font-style: italic;
+   background-color: rgb(63, 68, 77);
+   padding: 30px;
+   margin: 10px;
+
+}
+
+#inputField{
+    border: none;
+    border-radius: 30px;
+    background-color:rgb(180, 180, 168);
+    padding: 20px;
+    width: 400px;
+
+}
+
+button{
+    padding: 10px;
+    width: 100px;
+    color: rgb(180, 180, 168);
+    background-color: rgb(63, 68, 77);
+    cursor: pointer;
+}
